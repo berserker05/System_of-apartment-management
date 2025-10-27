@@ -29,6 +29,7 @@
 
 # aliyun:
 #   sms:
-#     access-key-id: 阿里云认证id
-#     access-key-secret: 阿里云认证密钥
+#     access-key-id: 
+#     access-key-secret: 
 #     endpoint: dysmsapi.aliyuncs.com
+
